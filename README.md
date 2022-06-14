@@ -10,3 +10,4 @@ This can show in each item in list a different design of each time. Usefull if y
  Pay attention to getItemViewType and onCreateViewHolder.
  
  Link:https://www.codexpedia.com/android/android-recyclerview-with-multiple-different-layouts/
+ Link2:https://www.youtube.com/watch?v=_S3ZVL7Pmvo
