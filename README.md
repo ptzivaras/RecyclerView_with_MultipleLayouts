@@ -8,3 +8,5 @@ This can show in each item in list a different design of each time. Usefull if y
 
 -The RecyclerView Item adapter, this is where the magic happens for having multiple different layouts in the RecyclerView list item.
  Pay attention to getItemViewType and onCreateViewHolder.
+ 
+ Link:https://www.codexpedia.com/android/android-recyclerview-with-multiple-different-layouts/
